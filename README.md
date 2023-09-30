@@ -71,6 +71,9 @@ Cadena de conexion
 
 ![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/bbf25ce6-0f07-461e-8278-e7829aca3858)
 
+## Base de datos
+![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/271b4b03-d178-455d-8355-8e49bbd340c3)
+
 
 ## Links Relacionados
 
