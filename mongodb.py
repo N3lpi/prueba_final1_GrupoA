@@ -7,7 +7,7 @@ load_dotenv()  # take environment variables from .env.
 user = os.getenv('MONGO_USER')
 password = os.getenv('MONGO_PASSWORD')
 
-uri = f"mongodb+srv://tratamientodatos2:tr4t4m13nt0d4t0s2@cluster0.fo30jxs.mongodb.net/?retryWrites=true&w=majority"
+uri = f"mongodb+srv://{user}:{password}@cluster0.fo30jxs.mongodb.net/?retryWrites=true&w=majority"
 
 # Create a new client and connect to the server
 client = MongoClient(uri)
