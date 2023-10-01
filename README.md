@@ -28,6 +28,8 @@ Crear un servicio web (usando Python+Flask o Django), que acceda a esta base y h
 * flask
 * pip
 * mongodb
+* certifi
+* pymongo srv
 
 ## Instalación
 
@@ -57,22 +59,17 @@ Cadena de conexion
   MONGO_PASSWORD=XXXXXX
 ```
 
-## Acceso exitoso API
+## Servicio en ejecución
 
-![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/663da965-b4e2-4407-9fe7-09a6ccaa13cc)
+![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/251a3146-48fc-4932-9a1e-3022000335d2)
 
-## Acceso exitoso consulta información API
-![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/a7580e7a-66c4-4c5a-8ee2-2d5b84321857)
-
-## Acceso exitoso parametros consulta información API
-![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/762364ce-f235-4430-a908-b772631520fc)
 
 ## Diagrama referencial
 
 ![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/bbf25ce6-0f07-461e-8278-e7829aca3858)
 
 ## Base de datos
-![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/271b4b03-d178-455d-8355-8e49bbd340c3)
+
 
 
 ## Links Relacionados
