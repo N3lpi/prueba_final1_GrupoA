@@ -22,6 +22,6 @@ def dbConnection():
         client = MongoClient(uri, tlsCAFile=ca)
         db = client["final2"]
     except ConnectionError:
-        print('Error de conexión con la bdd')
+        print('Error con la bdd')
     return db
 
