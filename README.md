@@ -70,6 +70,10 @@ Cadena de conexion
 ## Base de datos
 ![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/ecfa1413-f788-4d39-a0af-e3c9a41b558b)
 
+## Arquitectura referencial
+![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/f28229ac-45fc-4c12-9db2-95c018a46d34)
+
+
 ## Links Relacionados
 
 Aplicaciones utilizadas
