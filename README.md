@@ -60,17 +60,15 @@ Cadena de conexion
 ```
 
 ## Servicio en ejecución
-
 ![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/251a3146-48fc-4932-9a1e-3022000335d2)
 
 
-## Diagrama referencial
+## Registro de ingreso desde API
+![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/67e08ebc-ac2c-4692-9932-34b9c0fad7ad)
 
-![image](https://github.com/N3lpi/prueba-final1-grupoA/assets/144539622/bbf25ce6-0f07-461e-8278-e7829aca3858)
 
 ## Base de datos
-
-
+![image](https://github.com/N3lpi/prueba_final2_GrupoA/assets/144539622/ecfa1413-f788-4d39-a0af-e3c9a41b558b)
 
 ## Links Relacionados
 
